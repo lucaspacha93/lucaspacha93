@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lucas Rodrigues 
 
-🚀 **Software Development Engineer 1 e 2 | JavaScript & IA Studio**  
+🚀 **Software Development Engineer / SDE I | JavaScript & IA Studio**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
