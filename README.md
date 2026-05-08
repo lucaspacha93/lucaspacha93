@@ -1,5 +1,6 @@
 # Hi 👋, I'm Lucas Rodrigues 
 
+🚀 **Graduating as a prompt engineer** 
 🚀 **Software Development Engineer / SDE I | JavaScript & IA Studio**  
 🇧🇷 Brazil
 
