@@ -1,7 +1,7 @@
 # Hi 👋, I'm Lucas Rodrigues (Pacha)
 
 🚀 **Prompt Engineer** | **Software Development Engineer / SDE I [JavaScript & IA Studio]**  
-⚡ **Construindo soluções digitais com IA** ⚡
+⚡ **Construindo soluções digitais com IA**
 Specialist: Automação | SaaS | Web Sites
 
 🇧🇷 Brazil
