@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lucas Rodrigues 
+# Hi 👋, I'm Lucas Rodrigues (Pacha)
 
 🚀 **Prompt Engineer** | **Software Development Engineer / SDE I [JavaScript & IA Studio]**  
 🇧🇷 Brazil
