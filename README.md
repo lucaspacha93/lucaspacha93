@@ -2,7 +2,7 @@
 
 🚀 **Prompt Engineer** | **Software Development Engineer / SDE I [JavaScript & IA Studio]**  
 ⚡ **Construindo soluções digitais com IA**
-🌐 **Specialist:** Automação | SaaS | Web Sites
+🌐 Specialist: **Automação | SaaS | Web Sites**
 
 🇧🇷 Brazil
 
