@@ -1,7 +1,6 @@
 # Hi 👋, I'm Lucas Rodrigues 
 
-🚀 **Graduating Prompt Engineer** 
-🚀 **Software Development Engineer / SDE I | JavaScript & IA Studio**  
+🚀 **Graduating Prompt Engineer** | **Software Development Engineer / SDE I [JavaScript & IA Studio]**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
