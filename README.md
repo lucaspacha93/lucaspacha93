@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lucas Rodrigues (Pacha)
+# Hi 👋, I'm Lucas Pacheco (Pacha)
 
 🚀 **Prompt Engineer** | **Software Development Engineer / SDE I [JavaScript & IA Studio]**  
 ⚡ **Construindo soluções digitais com IA**
